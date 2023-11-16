@@ -7,3 +7,16 @@ theme = 'hugo-theme-codex'
 [params]
   twitter = "https://twitter.com/CaptainThomThom"
   github = "https://github.com/thompson-pilot"
+
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "portifolio"
+  title = "portifolio"
+  url = "/portifolio"
